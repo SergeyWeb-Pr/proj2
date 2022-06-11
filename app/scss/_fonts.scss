@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'lato-light';
+    font-weight: 300;
+    font-style: normal;
+    src: local('lato-light'),
+    url('../fonts/lato-light.woff') format('woff'),
+    url('../fonts/lato-light.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'lato-regular';
+    font-weight: 400;
+    font-style: normal;
+    src: local('lato-regular'),
+        url('../fonts/lato-regular.woff') format('woff'),
+        url('../fonts/lato-regular.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'lato-medium';
+    font-weight: 500;
+    font-style: normal;
+    src: local('lato-medium'),
+        url('../fonts/lato-medium.woff') format('woff'),
+        url('../fonts/lato-medium.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'lato-bold';
+    font-weight: 700;
+    font-style: normal;
+    src: local('lato-bold'),
+    url('../fonts/lato-bold.woff') format('woff'),
+    url('../fonts/lato-bold.woff2') format('woff2');
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'lato-black';
+    font-weight: 900;
+    font-style: normal;
+    src: local('lato-black'),
+        url('../fonts/lato-black.woff') format('woff'),
+        url('../fonts/lato-black.woff2') format('woff2');
+    font-display: swap;
+}
